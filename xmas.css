@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1545048702-79362596cdc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.xmas-container {
+  height: 100%;
+  align-content: center;
+  text-align: center;
+  padding-top: 20px;
+}
+
+tbody,
+thead {
+  color: white;
+}
+
+table {
+  margin-top: 20px;
+}
